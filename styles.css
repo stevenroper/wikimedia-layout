@@ -13,6 +13,8 @@ html, body {
 	height: 98%;
 	margin: 0 auto;
 	box-sizing: border-box;
+	min-width: 800px;
+	max-width: 900px;
 }
 
 .main__container a:link {
